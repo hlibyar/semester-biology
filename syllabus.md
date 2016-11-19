@@ -1,18 +1,18 @@
 ---
 layout: page
 title: Syllabus
-catalog: WIS 6934
+catalog: BIOL 500
 credits: 3
-semester: Fall 2015
-professor: Dr. Ethan White
-office: Room 1 in Building 150 (just north of Newins-Zeigler)
-email: ethanwhite@ufl.edu
-phone: 352-294-2081
-schedule: ['Tuesdays, 3-4, 219 Newins-Ziegler Hall',
-           'Fridays, 11:45-1:40, 222 Newins-Ziegler Hall']
+semester: Fall 2017
+professor: Dr. Hongmei Li-Byarlay
+office: Room 156 of Thomas Hall
+email: hlibyar@ncsu.edu
+phone: 919-515-1234
+schedule: ['Tuesdays, 3-4, 156 Thomas Hall',
+           'Fridays, 11:45-1:40, 160 Thomas Hall']
 office_hours: Thursdays 3-4 pm, or by appointment
-TA: Andrew Marx
-TA_email: andrewjmarx@ufl.edu
+TA: TBA
+TA_email: TBA
 ---
 
 ## {{ site.title }} 
@@ -187,7 +187,7 @@ quickly.
 ### Assignment policy
 
 Assignments are due Monday night by 11:59 pm Eastern Time. Assignments should be
-submitted via Canvas.
+submitted online.
 
 
 ### Course Technology
@@ -199,27 +199,16 @@ the installation of required software. If you don't have access to a laptop
 please contact the instructor and they will do their best to provide you with
 one.
 
-
-## UF Policies
-
-
 ### University Policy on Accommodating Students with Disabilities
 
-Students requesting accommodation for disabilities must first register with the
-Dean of Students Office (http://www.dso.ufl.edu/drc/). The Dean of Students
-Office will provide documentation to the student who must then provide this
-documentation to the instructor when requesting accommodation. You must submit
-this documentation prior to submitting assignments or taking the quizzes or
-exams. Accommodations are not retroactive, therefore, students should contact
-the office as soon as possible in the term for which they are seeking
-accommodations.
-
+Students requesting accommodation for disabilities must first check with the
+Disability Service Office (https://dso.dasa.ncsu.edu/) and understand all procedures of taking exams with DSO (https://dso.dasa.ncsu.edu/students/taking-exams-with-dso/)
 
 ### University Policy on Academic Misconduct
 
 Academic honesty and integrity are fundamental values of the University
 community. Students should be sure that they understand the UF Student Honor
-Code at http://www.dso.ufl.edu/students.php.
+Code at https://policies.ncsu.edu/policy/pol-11-35-01
 
 
 ### Netiquette and Communication Courtesy
@@ -230,11 +219,11 @@ courtesy in all email messages, threaded discussions and chats.
 
 ## Getting Help
 
-For issues with technical difficulties for E-learning in Canvas, please contact the UF Help Desk at:
+For issues with technical difficulties for E-learning, please contact the Help Desk at:
 
-* Learning-support@ufl.edu 
-* (352) 392-HELP - select option 2
-* https://lss.at.ufl.edu/help.shtml 
+*  calling (919) 513-7094, 
+*  send questions to our staff at learntech@ncsu.edu
+* https://delta.ncsu.edu/get-help/
 
 Any requests for make-ups due to technical issues MUST be accompanied by the
 ticket number received from LSS when the problem was reported to them. The
